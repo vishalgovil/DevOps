@@ -1,0 +1,607 @@
+    1  mysql -u vishalgovil -p
+    2  mysql -u vishalg -p
+    3  mysql -u vishal -p
+    4  chmod a+x /home/vishal/Downloads/apache-tomcat-9.0.56/bin/catalina.sh
+    5  sudo snap install vlc
+    6  mysql -u vishal -p
+    7  timedatectl set-local-rtc 1
+    8  mysql -u vishal -p
+    9  exit
+   10  mysql -u vishal -p
+   11  add-apt-repository ppa:git-core/ppa
+   12  sudo 
+   13  sudo -su
+   14  sudo -u
+   15  sudo -su root
+   16  git config –global user.name vishalgovil
+   17  git config --global user.name vishalgovil
+   18  git config --global user.email vishalgovil5@gmail.com
+   19  git init
+   20  exit
+   21  git
+   22  git bash
+   23  sudo apt-get update
+   24  sudo apt install -y openjdk-11-jdk
+   25  java --version
+   26  wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
+   27  sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+   28  sudo apt install ca-certificates
+   29  sudo apt-get update
+   30  sudo apt-get install jenkins
+   31  ls
+   32  vim /var/lib/jenkins/config.xml
+   33  vi /var/lib/jenkins/config.xml
+   34  ifconfig
+   35  sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+   36  sudo su jenkins
+   37  sudo service jenkins status
+   38  sudo service jenkins start
+   39  sudo service jenkins status
+   40  sudo service jenkins stop
+   41  sudo service jenkins status
+   42  sudo service jenkins restart
+   43  sudo su - jenkins
+   44  sudo apt-get install ubuntu-restricted-extras
+   45  lsb_release -a
+   46  sudo apt-get install libavcodec58 libav-tools ffmpeg
+   47  sudo apt install libdvdnav4 libdvdread7 gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly libdvd-pkg
+   48  vim /var/lib/jenkins/config.xml
+   49  vi /var/lib/jenkins/config.xml
+   50  ifconfig
+   51  sudo su jenkins
+   52  sudo service jenkins start
+   53  sudo su - jenkins
+   54  sudo apt- get install vim
+   55  sudo apt-get install vim
+   56  ifconfig
+   57  touch file.sh
+   58  sudo jenkins
+   59  sudo su- jenkins
+   60  sudo su - jenkins
+   61  sudo chown jenkins cal.sh
+   62  sudo chown jenkins file.sh
+   63  ls -l
+   64  pwd
+   65  ls
+   66  mkdir jenkinsdemo
+   67  cd j*
+   68  ls
+   69  pwd
+   70  touch c.sh
+   71  chmod u+x c.sh
+   72  ./c 1 2 3
+   73  ./c.sh 1 2 3
+   74  ./c.sh
+   75  ./c.sh 3 4 4
+   76  ./c.sh 3 4 2
+   77  sudo chown jenkins c.sh
+   78  ls
+   79  ls -l
+   80  ls
+   81  ls -l
+   82  sudo chown jenkins calc.sh
+   83  ls -l
+   84  ./calc.sh
+   85  ./.c.sh
+   86  ls
+   87  ./.c.sh
+   88  ./calc.sh
+   89  ls -l
+   90  cd var/lib/jenkins
+   91  cd
+   92  cd /var
+   93  cd lib
+   94  cd jenkins
+   95  ls
+   96  cd workspace
+   97  ls -l
+   98  cd H*
+   99  ls 
+  100  cd 
+  101  ls -l
+  102  cd jenkinsdemo
+  103  ls -l
+  104  sudo chown jenkins cal.sh
+  105  ls -l
+  106  git
+  107  cd /var
+  108  cd lib
+  109  ls
+  110  cd jenkins
+  111  ls
+  112  cd workspace
+  113  ls
+  114  cd Hello*
+  115  ls
+  116  git init
+  117  sudo git init
+  118  git commit -m "First commit"
+  119  sudo git commit -m "First Commit"
+  120  git config --global user.email vishalgovil5@gmail.com
+  121  git config --global user.name "vishal govil"
+  122  sudo git commit -m "First Commit"
+  123  git config --global user.email vishalgovil5@gmail.com
+  124  git config --global user.name "vishalgovil"
+  125  sudo git commit -m "First Commit"
+  126  git commit -m "First Commit"
+  127  chmod o-rwx foldername
+  128  cd ..
+  129  chmod o-rwx "HelloWorld Python"
+  130  sudo su -
+  131  cd Hell*
+  132  ls -l
+  133  cd Hello*
+  134  cd Hell*
+  135  sudo chmod a+rwx /var/lib/jenkins
+  136  cd H*
+  137  exit
+  138  cd /var
+  139  cd lib
+  140  cd jenkins
+  141  cd work*
+  142  ls
+  143  cd workspace
+  144  ls -l
+  145  cd Hello*
+  146  cd My*
+  147  cd ..
+  148  cd Hello
+  149  cd Hello*
+  150  sudo chmod a+rwx 'HelloWorld Python'
+  151  csd Hell*
+  152  cd Hell*
+  153  ls -l
+  154  git init
+  155  sudo git init
+  156  git init
+  157  git
+  158  git commit -m "first commit"
+  159  sudo su
+  160  git commit -m "first commit"
+  161  sudo chmod -R 775 .git
+  162  git commit -m "first commit"
+  163  sudo chmod -R 775 .git
+  164  ls -la /var/lib/jenkins/workspace/HelloWorld Python/.git/
+  165  ls -l
+  166  ls -la
+  167  sudo
+  168  sudo su
+  169  git init
+  170  ls -la
+  171  sudo
+  172  sudo su-
+  173  sudo su -
+  174  sudo chown -R jenkins:jenkins /var/lib/jenkins/
+  175  sudo service jenkins restart
+  176  git init
+  177  sudo su -
+  178  $apt-get install docker.io
+  179  $apt- get install docker.io
+  180  $apt -get install docker.io
+  181  $apt - get install docker.io
+  182  apt - get install docker.io
+  183  apt-get install docker.io
+  184  sudo $apt-get install docker.io
+  185  sudo apt-get install docker.io
+  186  sudo apt-get update
+  187  sudo su -
+  188  sudo $apt-get install docker.io
+  189  sudo docker pull ubuntu - pull docker images from dockerhub
+  190  docker pull ubuntu - pull docker images from dockerhub
+  191  sudo $apt-get install docker.io
+  192  sudo apt-get update
+  193  docker pull ubuntu - pull docker images from dockerhub
+  194  sudo docker pull ubuntu - pull docker images from dockerhub
+  195  docker pull ubuntu
+  196  clear
+  197  docker pull ubuntu
+  198  sudo apt-get install docker.io
+  199  clear
+  200  sudo docker pull ubuntu
+  201  sudo docker images
+  202  sudo docker create ubuntu
+  203  sudo docker create --name test ubuntu
+  204  sudo docker create -i -t --name user1 ubuntu
+  205  sudo start user1
+  206  sudo docker start user1
+  207  sudo docker stop user1
+  208  sudo docker attach user1
+  209  sudo docker start user1
+  210  sudo docker attach user1
+  211  sudo docker stop  user1
+  212  sudo docker ps -a -q
+  213  docker rm
+  214  sudo docker rm
+  215  sudo docker rm (docker ps -a -q)
+  216  sudo docker rm $(docker ps -a -q)
+  217  sudo docker rmi ubuntu
+  218  sudo docker rm $(docker ps -a -q)
+  219  sudo docker rm $(sudo docker ps -a -q)
+  220  sudo docker ps -a -q
+  221  sudo docker create -i -t --name user1 ubuntu
+  222  sudo useradd -m user1
+  223  sudo passwd user1
+  224  sudo docker images
+  225  sudo usermod -aG sudo user1
+  226  pwd
+  227  cd ..
+  228  ls
+  229  cd user1
+  230  cd
+  231  sudo docker $(sudo docker ps -a -q)
+  232  sudo docker logs user1
+  233  sudo docker logs -f user1
+  234  vim /home/user1/profile
+  235  vim /home/user1/.profile
+  236  sudo vim /home/user1/.profile
+  237  sudo vi /home/user1/.profile
+  238  ipconfig
+  239  ifconfig
+  240  ssh user1@172.16.132.204
+  241  sudo ssh user1@172.16.132.204
+  242  sudo apt-get install openssh-server
+  243  sudo ssh user1@172.16.132.204
+  244  exit
+  245  history
+  246  sudo docker images
+  247  service docker status
+  248  sudo docker stats$(sudo docker ps -a -q)
+  249  sudo docker start user1
+  250  sudo docker stats$(sudo docker ps -a -q)
+  251  sudo docker stats $(sudo docker ps -a -q)
+  252  sudo docker logs user1
+  253  sudo docker -f logs user1
+  254  sudo docker logs -f user1
+  255  ifconfig
+  256  ssh user1@172.16.132.204
+  257  docker start –a user1 -run user1 docker container
+  258  sudo docker start –a user1 -run user1 docker container
+  259  sudo docker start -a user1 -run user1 docker container
+  260  apt-get update
+  261  sudo apt-get update
+  262  sudo docker stop user1
+  263  sudo docker start -a user1 -run user1 docker container
+  264  sudo docker start -a user1 -r user1 docker container
+  265  sudo docker start -a user1
+  266  docker start –a user1
+  267  sudo docker start –a user1
+  268  sudo docker start user1
+  269  apt-get update
+  270  sudo apt-get update
+  271  docker attach user1
+  272  sudo docker attach user1
+  273  docker stop  user1
+  274  sudo docker stop  user1
+  275  docker logs user1
+  276  sudo docker logs user1
+  277  sudo docker stop user1
+  278  stop docker start –a user1
+  279  sudo docker start –a user1
+  280  sudo docker ps -a 
+  281  sudo docker start –a user1
+  282  sudo docker stop user1
+  283  sudo docker start –a user1
+  284  sudo docker start user1
+  285  apt-get update
+  286  sudo apt-get update
+  287  apt-get install -y apache2
+  288  sudo apt-get install -y apache2
+  289  apt-get install -y apache2-utils
+  290  sudo apt-get install -y apache2-utils
+  291  sudo apt-get install vim
+  292  vim /var/www/html/index.html
+  293  sudo service apache2 start (sudo apt-get install systemd)
+  294  sudo service apache2 start $(sudo apt-get install systemd)
+  295  sduo apt update
+  296  sudo apt update
+  297  sudo apt install maven
+  298  mvn -version
+  299  sudo update-alternatives --config java
+  300  lsb_release -a
+  301  sudo docker images
+  302  sudo docker ps -a -q
+  303  sudo docker rm $(docker ps -a -q)
+  304  sudo docker ubuntu
+  305  sudo docker 2b4cba85892a
+  306  sudo docker images -a
+  307  docker rmi ubuntu
+  308  sudo docker rmi Image Image
+  309  sudo docker rmi ubuntu
+  310  sudo apt install --reinstall virtualbox-dkms && sudo apt install libelf-dev
+  311  sudo apt install build-essential
+  312  sudo dpkg --configure -a
+  313  sudo apt install build-essential
+  314  sudo dpkg --configure -a
+  315  sudo /sbin/vboxconfig
+  316  sudo apt install --reinstall virtualbox-dkms && sudo apt install libelf-dev
+  317  sudo apt remove virtualbox
+  318  clear
+  319  sudo apt-get remove --purge virtualbox 
+  320  kill -9 18095
+  321  sudo kill -9 18095
+  322  sudo apt-get remove --purge virtualbox 
+  323  sudo apt remove virtualbox
+  324  sudo apt remove virtualbox-6.1
+  325  sudo dpkg --configure -a
+  326  sudo apt remove virtualbox-6.1
+  327  sudo apt remove virtualbox
+  328  clear
+  329  cd Downloads
+  330  ls
+  331  sudo dpkg -i virtualbox-6.1_6.1.32-149290~Ubuntu~eoan_amd64.deb 
+  332  sudo apt -f install
+  333  sudo /sbin/vboxconfig
+  334  sudo /sbin/vboxconfig 
+  335  reboot
+  336  sudo /sbin/vboxconfig 
+  337  git clone https://github.com/vtandonv/CalculatorUsingDevOps.git
+  338  cd CalculatorUsingDevOps/
+  339  sudo apt install ansible
+  340  ansible --version
+  341  cat > inventory
+  342  ansible ubuntu18 -m ping -i inventory
+  343  cat p2.yml
+  344  ansible-playbook p2.yml -i inventory
+  345  exit
+  346  mvn -version
+  347  sudo update-alternatives --config java
+  348  cd /home/vishal/Downloads/MavenTest
+  349  mvn install
+  350  java -cp target/project_jar_file.jar MainFile
+  351  java -cp target/project_jar_file.jar HelloCheck
+  352  java -cp target/MavenTest-1.0-SNAPSHOT.jar  HelloCheck
+  353  cd
+  354  cd Cal*
+  355  ssh -keygen -t rsa
+  356  ssh-keygen -t rsa
+  357  ssh-copy-id vishal@172.17.0.1
+  358  ssh 'vishal@172.17.0.1'
+  359  exit
+  360  ifconfig
+  361  exit
+  362  ls
+  363  cd Cal*
+  364  git init
+  365  git commit -m "first commit"
+  366  git branch -M main
+  367  git remote add origin https://github.com/vishalgovil/CalculatorUsingDevOps.git
+  368  git remote rm origin
+  369  git remote add origin https://github.com/vishalgovil/CalculatorUsingDevOps.git
+  370  git push -u origin main
+  371  cd ..
+  372  git push -u origin main
+  373  cd CalculatorUsingDevOps/
+  374  git push -u origin main
+  375  sudo su - jenkins
+  376  sudo sytemctl start Jenkins
+  377  sudo start Jenkins
+  378  sudo service jenkins start
+  379  which git
+  380  which jenkins
+  381  which ansible
+  382  sudo su - jenkins
+  383  sudo docker rm user1
+  384  sudo docker ps -aq
+  385  sudo userdel user1 
+  386  exit
+  387  sudo su jenkins
+  388  sudo usermod -aG docker jenkins
+  389  sudo systemctl restart jenkins
+  390  sudo tail etc/gshadow
+  391  sudo tail /etc/gshadow
+  392  ls
+  393  mkdir CalculatorDevOps
+  394  cd Cal*
+  395  cd CalculatorDevOps/
+  396  ls
+  397  git init
+  398  git commit -m "first commit"
+  399  git branch
+  400  git branch -M main
+  401  git remote add origin https://github.com/vishalgovil/CalculatorDevOps.git
+  402  git push -u origin main
+  403  git commit -m "first commit"
+  404  git push -u origin main
+  405  git status
+  406  echo "# CalculatorDevOps" >> README.md
+  407  git status
+  408  git add .
+  409  git push -u origin main
+  410  java -version
+  411  git init
+  412  git commit -m "calc commit"
+  413  git push -u origin main
+  414  sudo su - jenkins
+  415  cd CalculatorDevOps
+  416  git init
+  417  git add .
+  418  git commit -m "Docker Folder"
+  419  git push
+  420  ssh vishal@172.16.135.4
+  421  ifconfig
+  422  ssh vishal@172.16.135.4
+  423  exit
+  424  cd /var
+  425  cd /log
+  426  cd log
+  427  ls
+  428  cd jenkins
+  429  ls
+  430  cd..
+  431  cd ..
+  432  cd
+  433  cd /var/lib/jenkins
+  434  ls
+  435  exit
+  436  history
+  437  docker images
+  438  sudo docker images
+  439  history > filehost
+  440  ls
+  441  cd Dow*
+  442  ls
+  443  cd MiniProj
+  444  ls
+  445  git init
+  446  git add .
+  447  git commit -m "Docker File"
+  448  git puch
+  449  git push
+  450  ls
+  451  cd target
+  452  l
+  453  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  454  cd ..
+  455  mvn clean install
+  456  cd target
+  457  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  458  mvn clean install
+  459  cd ..
+  460  mvn clean install
+  461  cd target
+  462  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  463  java -cp MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  464  java -cp -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  465  cd ..
+  466  mvn clean install
+  467  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  468  sudo java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  469  sudo java -jar MiniProj-1.0-SNAPSHOT.jar
+  470  java -jar MiniProj-1.0-SNAPSHOT.jar
+  471  cd target
+  472  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  473  cd ..
+  474  mvn clean install
+  475  cd target
+  476  java -jar MiniProj-1.0-SNAPSHOT-jar-with-dependencies.jar
+  477  cd ..
+  478  git init
+  479  git add .
+  480  git commit -m "main file error"
+  481  git push
+  482  java -version
+  483  javac version
+  484  javac -version
+  485  mvn clean install
+  486  git init
+  487  git add .
+  488  git commit -m "java version change"
+  489  git push
+  490  git init
+  491  git add .
+  492  git commit -m "log file"
+  493  git push
+  494  sudo su - jenkins
+  495  git init
+  496  git add .
+  497  git commit -m "changing the docker yml"
+  498  git push
+  499  cd Down*
+  500  ls
+  501  cd MiniProj
+  502  git init
+  503  git pull
+  504  git add .
+  505  git commit -m "Webhook check"
+  506  git push
+  507  git add .
+  508  git commit -m "Webhook check with options changed"
+  509  git push
+  510  sudo jenkins restart
+  511  sudo jenkins
+  512  cd 
+  513  sudo jenkins
+  514  jenkins
+  515  sudo jenkins restart
+  516  sudo su -
+  517  cd var/lib/jenkins
+  518  cd var
+  519  cd /var
+  520  cd lib
+  521  cd jenkins
+  522  ls
+  523  sudo jenkins
+  524  jenkins
+  525  sudo systemctl status jenkins
+  526  sudo service jenkins restart
+  527  sudo systemctl status jenkins
+  528  history
+  529  git status'=
+  530  ;
+  531  git status
+  532  git add .
+  533  git commit -m "Calculator update and playbook task added"
+  534  git pull
+  535  git config pull.rebase false
+  536  git pull
+  537  git push
+  538  ifconfig
+  539  ngrok
+  540  sudo apt update
+  541  sudo apt install snapd
+  542  sudo snap install ngrok
+  543  ngrok
+  544  ngrok http 8080
+  545  sudo jenkins
+  546  su -s /bin/bash jenkins
+  547  sudo su jenkins
+  548  ngrok http 8080
+  549  ls
+  550  history
+  551  ls
+  552  cd Down*
+  553  ls
+  554  cd MiniProj
+  555  ls
+  556  cd ..
+  557  ngrok http 8080
+  558  clear
+  559  ngrok http 8080
+  560  cd
+  561  ls
+  562  clear
+  563  mkdir Gitdemo
+  564  cd Gitdemo
+  565  clear
+  566  git init
+  567  git add README.md
+  568  clear
+  569  git init
+  570  git remote add origin https://github.com/vishalgovil/DevOps.git
+  571  git branch -M main
+  572  git add .
+  573  git commit -m "first commit"
+  574  git remote add origin https://github.com/vishalgovil/DevOps.git
+  575  git push -u origin main
+  576* 
+  577  git push -u origin main
+  578  clear
+  579  git init
+  580  git add .
+  581  git commit -m "Demo Commit"
+  582  git push
+  583  git push -u origin main
+  584  git push --set-upstream origin main
+  585  clear
+  586  git init
+  587  git add .
+  588  git commit -m "Demo commit initial"
+  589  git push -u origin main
+  590  git commit -m "Demo commit initial"
+  591  git push -u origin main
+  592  clear
+  593  git init
+  594  git add .
+  595  clear
+  596  git init
+  597  git commit -m "commit"
+  598  git add .
+  599  git push origin main
+  600  git push origin master
+  601  clear
+  602  git init
+  603  git add .
+  604  git commit -m "commit1"
+  605  touch file
+  606  "Hello how are you" > file 
+  607  history >  file 
